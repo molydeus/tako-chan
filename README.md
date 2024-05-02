@@ -1,5 +1,6 @@
 # tako-chan
 Multidimensional Computational Architecture Project
+
 Description
 This project aims to design and develop a theoretical computational architecture based on specialized and scalable subsystems. The architecture is designed to be robust, efficient, and capable of adapting to technological changes and business requirements. The proposal focuses on including multiple critical dimensions such as scalability, depth, time, frequency, complexity, concurrency, and adaptability.
 
