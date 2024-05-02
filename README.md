@@ -72,6 +72,5 @@ Contributing
 This project is open to collaborators interested in contributing to the design and development of an innovative and 
 
 multidimensional computational architecture. Interested parties can check the current project issues or propose new ones to discuss 
-
 improvements and new features.
 
